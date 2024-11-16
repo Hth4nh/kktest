@@ -12,6 +12,10 @@ thien-su-nha-ben-phan-1
 dua-con-ma-me-ke-dan-ve-tung-la-ban-gai-cu
 ta-muon-tro-thanh-chua-te-bong-toi-phan-1
 ta-muon-tro-thanh-chua-te-bong-toi-phan-2
+lac-vao-the-gioi-game-phan-1
+lac-vao-the-gioi-game-phan-2
+lac-vao-the-gioi-game-phan-3
+lac-vao-the-gioi-game-phan-4
 tien-si-da-hoi-sinh-the-gioi-phan-1
 tien-si-da-hoi-sinh-the-gioi-phan-2
 tien-si-da-hoi-sinh-the-gioi-phan-3
