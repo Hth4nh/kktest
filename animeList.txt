@@ -35,6 +35,7 @@ hoc-vien-ma-vuong-phan-1
 hoc-vien-ma-vuong-phan-2
 dua-con-cua-than-tuong-phan-1
 dua-con-cua-than-tuong-phan-2
+khong-minh-thich-tiec-tung
 tay-rock-bocchi
 da-ngoai-thanh-thoi-phan-1
 da-ngoai-thanh-thoi-phan-2
