@@ -10,6 +10,7 @@ nguyet-dao-di-gioi
 arya-ban-ben-thinh-thoang-lai-treu-gheo-toi-bang-tieng-nga
 thien-su-nha-ben-phan-1
 dua-con-ma-me-ke-dan-ve-tung-la-ban-gai-cu
+komi-khong-the-giao-tiep
 ta-muon-tro-thanh-chua-te-bong-toi-phan-1
 ta-muon-tro-thanh-chua-te-bong-toi-phan-2
 vong-linh-dau-kho-muon-giai-nghe
