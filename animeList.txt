@@ -10,6 +10,7 @@ nguyet-dao-di-gioi
 du-sao-cung-de-thuong-mua-1
 du-sao-cung-de-thuong-mua-2
 arya-ban-ben-thinh-thoang-lai-treu-gheo-toi-bang-tieng-nga
+co-ban-toi-tham-thich-lai-quen-mang-kinh-roi
 thien-su-nha-ben-phan-1
 dua-con-ma-me-ke-dan-ve-tung-la-ban-gai-cu
 komi-khong-the-giao-tiep
