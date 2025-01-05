@@ -1,7 +1,8 @@
 to-muon-an-tuy-cua-cau-2018
-khoa-chat-cua-nao-suzume
 ten-cau-la-gi
 dang-hinh-thanh-am
+dua-con-cua-thoi-tiet
+khoa-chat-cua-nao-suzume
 tuyen-thu-vo-hinh-phan-1
 tuyen-thu-vo-hinh-phan-2
 tuyen-thu-vo-hinh-phan-3
@@ -22,6 +23,7 @@ vong-linh-dau-kho-muon-giai-nghe
 hien-gia-tu-xung-la-do-de-hien-gia-tai-di-gioi
 chien-khu-86-khong-ton-tai
 thang-cap-mot-minh
+toi-thang-cap-mot-minh-phan-2
 mobile-suit-gundam-phap-su-den-tu-sao-thuy-phan-2
 lac-vao-the-gioi-game-phan-1
 lac-vao-the-gioi-game-phan-2
