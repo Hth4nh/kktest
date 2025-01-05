@@ -20,6 +20,7 @@ chang-the-ly-giai-noi-aharensan
 ta-muon-tro-thanh-chua-te-bong-toi-phan-1
 ta-muon-tro-thanh-chua-te-bong-toi-phan-2
 vong-linh-dau-kho-muon-giai-nghe
+chuyen-sinh-thanh-quy-toc-toi-su-dung-ky-nang-giam-dinh-de-tien-than-trong-the-gioi
 hien-gia-tu-xung-la-do-de-hien-gia-tai-di-gioi
 chien-khu-86-khong-ton-tai
 quai-vat-so-8
