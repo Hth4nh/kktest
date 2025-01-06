@@ -6,8 +6,8 @@ khoa-chat-cua-nao-suzume
 tuyen-thu-vo-hinh-phan-1
 tuyen-thu-vo-hinh-phan-2
 tuyen-thu-vo-hinh-phan-3
+bup-be-ky-uc
 ban-nai-nokotan-cua-toi
-nguyet-dao-di-gioi
 du-sao-cung-de-thuong-mua-1
 du-sao-cung-de-thuong-mua-2
 arya-ban-ben-thinh-thoang-lai-treu-gheo-toi-bang-tieng-nga
@@ -17,6 +17,12 @@ dua-con-ma-me-ke-dan-ve-tung-la-ban-gai-cu
 komi-khong-the-giao-tiep
 uzakichan-muon-di-choi
 chang-the-ly-giai-noi-aharensan
+cuoc-hen-song-con-phan-1
+cuoc-hen-song-con-phan-2
+cuoc-hen-song-con-phan-3
+cuoc-hen-song-con-phan-4
+cuoc-hen-song-con-phan-5
+nguyet-dao-di-gioi
 ta-muon-tro-thanh-chua-te-bong-toi-phan-1
 ta-muon-tro-thanh-chua-te-bong-toi-phan-2
 vong-linh-dau-kho-muon-giai-nghe
@@ -26,7 +32,7 @@ chien-khu-86-khong-ton-tai
 quai-vat-so-8
 thang-cap-mot-minh
 toi-thang-cap-mot-minh-phan-2
-mobile-suit-gundam-phap-su-den-tu-sao-thuy
+mobile-suit-gundam-phap-su-den-tu-sao-thuy-phan-1
 mobile-suit-gundam-phap-su-den-tu-sao-thuy-phan-2
 lac-vao-the-gioi-game-phan-1
 lac-vao-the-gioi-game-phan-2
@@ -35,6 +41,8 @@ lac-vao-the-gioi-game-phan-4
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-1
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-2
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-3
+tinh-linh-huyen-tuong-ky-phan-1
+tinh-linh-huyen-tuong-ky-phan-2
 dai-chien-nguoi-khong-lo-phan-1
 dai-chien-nguoi-khong-lo-phan-2
 dai-chien-nguoi-khong-lo-phan-3
