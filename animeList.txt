@@ -10,6 +10,8 @@ bup-be-ky-uc
 ban-nai-nokotan-cua-toi
 du-sao-cung-de-thuong-mua-1
 du-sao-cung-de-thuong-mua-2
+horimiya
+horimiya-nhung-manh-ghep-bi-mat
 arya-ban-ben-thinh-thoang-lai-treu-gheo-toi-bang-tieng-nga
 co-ban-toi-tham-thich-lai-quen-mang-kinh-roi
 thien-su-nha-ben-phan-1
