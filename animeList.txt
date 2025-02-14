@@ -49,6 +49,11 @@ lac-vao-the-gioi-game-phan-1
 lac-vao-the-gioi-game-phan-2
 lac-vao-the-gioi-game-phan-3
 lac-vao-the-gioi-game-phan-4
+ham-nguc-toi-phan-1
+ham-nguc-toi-phan-2
+ham-nguc-toi-phan-3
+ham-nguc-toi-phan-4
+ham-nguc-toi-phan-5
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-1
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-2
 arifureta-tu-tam-thuong-den-bat-kha-chien-bai-phan-3
