@@ -67,6 +67,7 @@ dai-chien-nguoi-khong-lo-phan-cuoi
 tien-si-da-hoi-sinh-the-gioi-phan-1
 tien-si-da-hoi-sinh-the-gioi-phan-2
 tien-si-da-hoi-sinh-the-gioi-phan-3
+tien-si-da-hoi-sinh-the-gioi-phan-4
 chuyen-sinh-thanh-kiem
 toi-la-nhen-day-co-sao-khong
 hoc-vien-ma-vuong-phan-1
