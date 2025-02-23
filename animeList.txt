@@ -6,6 +6,7 @@ khoa-chat-cua-nao-suzume
 tuyen-thu-vo-hinh-phan-1
 tuyen-thu-vo-hinh-phan-2
 tuyen-thu-vo-hinh-phan-3
+blue-box
 thang-tu-la-loi-noi-doi-cua-em
 bup-be-ky-uc
 ban-nai-nokotan-cua-toi
