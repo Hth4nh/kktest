@@ -74,7 +74,7 @@ tinh-linh-huyen-tuong-ky-phan-2
 dai-chien-nguoi-khong-lo-phan-1
 dai-chien-nguoi-khong-lo-phan-2
 dai-chien-nguoi-khong-lo-phan-3
-dai-chien-nguoi-khong-lo-phan-cuoi
+dai-chien-nguoi-khong-lo-phan-4
 chi-ve-su-chuyen-dong-cua-dia-cau
 tien-si-da-hoi-sinh-the-gioi-phan-1
 tien-si-da-hoi-sinh-the-gioi-phan-2
