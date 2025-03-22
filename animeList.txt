@@ -41,7 +41,8 @@ nang-noi-loan-x-chang-tho-may
 ta-muon-tro-thanh-chua-te-bong-toi-phan-1
 ta-muon-tro-thanh-chua-te-bong-toi-phan-2
 cuoc-song-nong-dan-o-the-gioi-khac
-chuyen-sinh-thanh-quy-toc-toi-su-dung-ky-nang-giam-dinh-de-tien-than-trong-the-gioi
+chuyen-sinh-thanh-quy-toc-toi-su-dung-ky-nang-giam-dinh-de-tien-than-trong-the-gioi-phan-1
+chuyen-sinh-thanh-quy-toc-toi-su-dung-ky-nang-giam-dinh-de-tien-than-trong-the-gioi-phan-2
 tho-san-game-rac-phan-1
 tho-san-game-rac-phan-2
 hien-gia-tu-xung-la-do-de-hien-gia-tai-di-gioi
