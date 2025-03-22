@@ -19,6 +19,9 @@ co-ban-toi-tham-thich-lai-quen-mang-kinh-roi
 thien-su-nha-ben-phan-1
 dua-con-ma-me-ke-dan-ve-tung-la-ban-gai-cu
 komi-khong-the-giao-tiep
+nhat-quy-nhi-ma-thu-ba-takagi-phan-1
+nhat-quy-nhi-ma-thu-ba-takagi-phan-2
+nhat-quy-nhi-ma-thu-ba-takagi-phan-3
 ket-hon-voi-nguoi-ma-toi-ghet-nhat
 cuoc-hon-nhan-hanh-phuc-cua-toi-phan-1
 cuoc-hon-nhan-hanh-phuc-cua-toi-phan-2
