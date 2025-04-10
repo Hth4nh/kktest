@@ -88,6 +88,8 @@ hoc-vien-ma-vuong-phan-1
 hoc-vien-ma-vuong-phan-2
 mashle-ma-thuat-va-co-bap
 mashle-ma-thuat-va-co-bap-phan-2
+ba-vuong-hoc-duong-phan-1
+ba-vuong-hoc-duong-phan-2
 dua-con-cua-than-tuong-phan-1
 dua-con-cua-than-tuong-phan-2
 khong-minh-thich-tiec-tung
