@@ -13,3 +13,6 @@ uoc-minh-cung-bay
 tieu-tam-khong-co-loi
 hanh-phuc-bi-danh-cap
 cua-hang-tien-loi-saet-byul
+nguoi-tinh-cua-toi
+yeu-tham-anh-xa
+tham-ke-doc-tinh
